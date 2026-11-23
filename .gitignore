@@ -1,0 +1,14 @@
+# exported reports and source workbooks
+*.pdf
+*.docx
+*.xlsx
+*.xls
+*.png
+!docs/*.png
+
+# local tooling
+.claude/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
